@@ -1,4 +1,4 @@
-# Grand Traverse Reach Portal
+# Tonkawa Vip Reach Portal
 
 This is the black template for Reach products.
 
@@ -6,14 +6,14 @@ This is the black template for Reach products.
 
 ### Login to the Front End
 ```
-URL: grandtraverse.localhost.en/
+URL: tonkawa-vip.localhost.en/
 UN: test@test.com
 PW: testing
 ```
 
 ### Login to the Admin
 ```
-URL: grandtraverse-portal.localhost.en/administrator
+URL: tonkawa-vip-portal.localhost.en/administrator
 UN: testing
 PW: testing
 ```
